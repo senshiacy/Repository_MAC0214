@@ -30,8 +30,6 @@ Descrição Detalhada e Links no [Blog](https://www.linux.ime.usp.br/~natsu/repo
 
 ## [Codeforces - 1096](src/Codeforces_1096/) (30 de Abril) - 2h30 prova
 
-**23h25**
-
 ---
 
 ## [AtCoder - 456](src/AtCoder_456/) (02 de Maio) - (1h40 prova + 1h upsolving = 2h40)
